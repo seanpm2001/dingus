@@ -4,7 +4,9 @@ The online dingus for the [Rouge](https://github.com/rouge-ruby/rouge) project.
 
 ## Deploying
 
-This repo is designed for deployment to [Fly.io](https://fly.io).
+This repo is designed for deployment to [Fly.io](https://fly.io). Follow the
+[instruction](https://fly.io/docs/speedrun/) on the official website to setup the
+CLI and launch the application.
 
 ## Contributing
 

@@ -7,6 +7,7 @@ app = "rouge-dingus"
 primary_region = "lax"
 
 [build]
+  build-target = "production"
 
 [http_service]
   internal_port = 9292
